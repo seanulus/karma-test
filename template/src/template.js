@@ -1,4 +1,4 @@
 export function RandomNumber(){
-  var rand = math.floor(math.random() * 6 ) + 1;
+  var rand = Math.floor(Math.random() * 6 ) + 1;
   return rand;
 }
